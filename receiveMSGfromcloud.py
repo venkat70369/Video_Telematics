@@ -31,3 +31,6 @@ except KeyboardInterrupt:
 finally:
     # Disconnect from Azure IoT Hub
     client.disconnect()
+
+
+#HostName=CSGVehicleIOTHub.azure-devices.net;DeviceId=CSG_Vehicle_001;SharedAccessKey=saF/TUOYYAp67r0gLbH1lDYyPq4dB9Im3/dQr2yuN40=
